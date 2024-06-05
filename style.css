@@ -22,7 +22,6 @@
 }
 
 .header {
-  width: 100%;
   justify-content: center;
   font-family: "Outfit", sans-serif;
   font-style: normal;
@@ -46,7 +45,7 @@
 }
 
 .quotes-section {
-  width: 50%;
+  width: 60%;
   text-align: left;
   margin-left: 15%;
 }
@@ -549,6 +548,7 @@ hr {
   .quotes-section {
     text-align: center;
     margin: 0;
+    width: 40%;
   }
   .author {
     text-align: center;
